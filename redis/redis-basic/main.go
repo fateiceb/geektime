@@ -4,7 +4,6 @@ import (
 	"context"
 	"flag"
 	"fmt"
-
 	"github.com/go-redis/redis/v8"
 )
 
